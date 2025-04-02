@@ -18,9 +18,6 @@ reportlab for PDF generation.
 
 Define the project structure:
 
-php
-Copier
-Modifier
 resume_parser/
 ├── app.py          # Main Flask app
 ├── requirements.txt  # Dependencies
